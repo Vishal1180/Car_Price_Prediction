@@ -1,5 +1,5 @@
 numpy
-
+nbclient==0.5.4
 scikit-learn
 Cython
 matplotlib>=1.4.3
@@ -8,7 +8,7 @@ gunicorn==20.0.4
 psycopg2-binary>=2.8.6
 jsonify
 requests
-
+tensorboard-data-server==0.6.1
 flask
 ipykernel>=6.2.0
 ipython==7.26.0
