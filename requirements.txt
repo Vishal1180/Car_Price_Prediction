@@ -5,12 +5,12 @@ Cython
 matplotlib>=1.4.3
 pandas>=0.19
 gunicorn==20.0.4
-psycopg2-binary==2.8.6
+psycopg2-binary>=2.8.6
 jsonify
 requests
-
+pickle
 flask
-ipykernel==6.2.0
+ipykernel>=6.2.0
 ipython==7.26.0
 ipython-genutils==0.2.0
 matplotlib==3.4.3
